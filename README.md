@@ -9,6 +9,5 @@ Feel free to add your input, any comments will be helpful :)
 Omer S.
 
  <a href="https://www.linkedin.com/in/omersivan/" target="_blank">LinkedIn OmerSivan</a>
-[LinkedIn OmerSivan](https://www.linkedin.com/in/omersivan/)
 
 July 2023
