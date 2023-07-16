@@ -7,7 +7,7 @@ In addition you are free to use it as a template for personal applications and u
 Feel free to add your input, any comments will be helpful :)
 
 Omer S.
-<base target="_blank">
-[LinkedIn OmerSivan](https://www.linkedin.com/in/omersivan/)
+
+[LinkedIn OmerSivan](https://external.ink?to=/www.linkedin.com/in/omersivan/)
 
 July 2023
