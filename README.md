@@ -8,6 +8,6 @@ Feel free to add your input, any comments will be helpful :)
 
 Omer S.
 
-[LinkedIn OmerSivan](https://external.ink?to=/www.linkedin.com/in/omersivan/)
+[LinkedIn OmerSivan](https://www.linkedin.com/in/omersivan/)
 
 July 2023
